@@ -2,6 +2,9 @@
 make prefix=/usr/local/ all
 make prefix=/usr/local install install-doc install-html install-info 
 
+
+
+
 %%erlang install command
 ./configure --prefix=/usr/local/erlang --with-ssl --enable-threads --enable-smp-support --enable-kernel-poll --enable-hipe --without-javac
 make && make install

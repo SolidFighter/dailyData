@@ -6,6 +6,7 @@ Algorithm:
 2.More programming pearls
 3.编程之美
 4.Algorithm Design Manual
+5.topcoder 难度系数D1L2~D2L1题目
 
 System:
 1.Modern operating system

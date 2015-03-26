@@ -1,5 +1,4 @@
 "basic config start
-"
 set mouse=a  " 使用鼠标
 set nocompatible " 关闭vi兼容模式
 set expandtab "使用space代替tab 

@@ -11,7 +11,6 @@ set hlsearch " 搜索时高亮显示被找到的文本
 "set cindent "开启新行时使用智能自动缩进
 set showcmd "开启显示未执行完的命令
 set autowrite "多文件编辑时自动保存
-"
 "basic config end
 
 "C/C++ start
